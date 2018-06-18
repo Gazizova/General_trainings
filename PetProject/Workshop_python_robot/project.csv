@@ -1,0 +1,9 @@
+Next Stage,Type,Stage,Ref Num,Consultant Name,Client,Order Number,Invoice Number,Property name,Street 1,Street 2,Town/City,County,Postcode,Value
+30/11/2017,Combined HSF review,Assigned to consultant,L-88888,pops-admin,1st Asset,987455,,2 New Cavendish Street,London,,,,W1G 9TA,666.00
+04/12/2017,Combined HSF review,Visit date confirmed,Tets1603,Andrii_consultant_uat,Tets1603,,,,Tets1603,,,,,
+29/01/2018,Combined HSF review,JSS,L-41007,,upd_soapui_test_client,upd_soapui_test_client,POPSINFO,POPSINFO,upd_soapui_test_client upd_soapui_test_client upd_soapui_test_client upd_soapui_test_client,POPSINFO,POPSINFO,POPSINFO,upd_soapui_test_client,200.00
+09/04/2018,Combined HSF review,JSS,Test0604181053,,Test0604181053,,,,Test0604181053,,,,,0.00
+09/04/2018,Combined HSF review,Ready for QA,Paige-456,,20170124124851,,,,2 Festival Square with round corner,,,,,
+16/04/2018,Combined HSF review,JSS,newpops-20180412,,newpops-20180412,,,,newpops-20180412,,,,,0.00
+17/04/2018,Combined HSF review,Exported to PRISM,test-22056,Bill Rider,test-22056,,,,test-22056,,,,,
+18/04/2018,Combined HSF review,QA complete,test-2205,Bill Rider,test-2205,,,,test-2205,,,,,
